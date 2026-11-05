@@ -1,0 +1,13 @@
+# Requirements for Introduction to AI & Python
+# This project uses only Python standard library modules.
+# No external packages are required to run the Python programs.
+#
+# Optional: If you want to explore further after this module,
+# the following are popular AI/ML libraries you may learn next:
+#
+# numpy==1.26.4
+# pandas==2.2.2
+# matplotlib==3.9.0
+# scikit-learn==1.5.0
+# tensorflow==2.16.1
+# torch==2.3.0
